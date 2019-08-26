@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="iniJudul">5 Gadget berguna untuk berkemah</string>
+    <string name="iniSubJudul">MamangTV</string>
+    <string name="cari">search</string>
+</resources>
